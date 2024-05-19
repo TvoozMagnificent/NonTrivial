@@ -1,7 +1,2 @@
----
-layout: default
-title: What do you mean by "impact"?
----
-
-# What do you mean by "impact"?
+# Pressing World Problems [back](https://tvoozmagnificent.github.io/NonTrivial/nontrivial.html)
 
