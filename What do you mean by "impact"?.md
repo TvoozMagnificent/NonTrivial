@@ -84,8 +84,8 @@ Ignoring hidden variables for now (since no specification is given), we'll apply
 
 {% raw %}
 $$\begin{align*}\mathbb E[\text{Option 2}] &\ge \mathbb E[\text{Option 1}]\\
-\text{Pr}[\text{Success}_\text{\ Option 2}] \cdot x &\ge 
-\text{Pr}[\text{Success}_\text{\ Option 1}] \cdot 20\\
+\text{Pr}[\text{Success}_\text{ Option 2}] \cdot x &\ge 
+\text{Pr}[\text{Success}_\text{ Option 1}] \cdot 20\\
 100\%\cdot x &\ge 50\%\cdot 20\\
 x &\ge 10\end{align*}$$
 {% endraw %}
