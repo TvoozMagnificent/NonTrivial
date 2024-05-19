@@ -150,11 +150,11 @@ Abstract things like the will to achieve self-actualization.
 
 Type of impact|Best guess
 -|-
-[Interest-driven](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.y1dj8yxkjftd)|💥 I want to have the biggest impact and I'm open to new areas
-[Counterfactual](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.2ew8vg41o8ji)|⚖️ Compare to what would have happened (counterfactual adjustment)
-[Obligations](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.wnehuvezh95c)|🙅‍♀️ We should help others even at significant personal cost. However, note that we also have to consider the counterfactual adjustment:  If I do not take this current chance to do good, can I allow myself to do more good later?
-[Geography](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.m609w4n8zqjw)|🌐 All people matter equally (cosmopolitanism)
-[Species](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.w80j0lnbbm0s)|🐾 All species deserve concern. Of course, there are many reasons why humans deserve more concern.
-[Uncertainty](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.vjjaor5xzu6g)|☢️ Use risk-neutral expected utility theory (most risk)
-[Ethical framework](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.otvks3n1n43u)|⭐ Consequences are all that matter (consequentialism e.g. utilitarianism)
-[Future generations](https://docs.google.com/document/d/1_lyIiHL-ELb0lT4YSQ_-GanrBS6zR-6qIXhMrpZJqWo/edit#heading=h.asijj7iw35l5)|🌌 Future generations are of overwhelming importance
+Interest-driven|💥 I want to have the biggest impact and I'm open to new areas
+Counterfactual|⚖️ Compare to what would have happened (counterfactual adjustment)
+Obligations|🙅‍♀️ We should help others even at significant personal cost. However, note that we also have to consider the counterfactual adjustment:  If I do not take this current chance to do good, can I allow myself to do more good later?
+Geography|🌐 All people matter equally (cosmopolitanism)
+Species|🐾 All species deserve concern. Of course, there are many reasons why humans deserve more concern.
+Uncertainty|☢️ Use risk-neutral expected utility theory (most risk)
+Ethical framework|⭐ Consequences are all that matter (consequentialism e.g. utilitarianism)
+Future generations|🌌 Future generations are of overwhelming importance
