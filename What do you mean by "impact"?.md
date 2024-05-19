@@ -1,10 +1,8 @@
 ---
 title: What do you mean by "impact"???
+customjs: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 ---
 
-```js client
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-```
 
 > **Thought experiment:** Imagine you want to develop cancer treatments after a loved one's illness. But you have great engineering skills that could advance clean energy. How would you weigh following your passions against contributing where your talents may have outsized impact?
 >
