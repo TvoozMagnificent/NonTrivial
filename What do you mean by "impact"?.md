@@ -1,3 +1,7 @@
+---
+title: What do you mean by "impact"?
+---
+
 > **Thought experiment:** Imagine you want to develop cancer treatments after a loved one's illness. But you have great engineering skills that could advance clean energy. How would you weigh following your passions against contributing where your talents may have outsized impact?
 >
 > **How would you weigh passion against the potential to help more people through another cause? Are there certain causes you want to support regardless of scale?**
