@@ -54,7 +54,7 @@ I agree with the viewpoint that a species is worthy of our concern if it can **f
 
 > **Imagine a trolley was hurtling down the track and you had to choose between it killing a human or hitting \\(x\\) chickens. Is there a number of chickens where you would choose to save their life over a human? What do you think is the smallest number of chickens where you would choose them over the human?**
 
-For reasonably small \\(x\\) (say, less than a million), **I would choose to save a human life.** However, once \\(x\\) gets increasingly large (say, approaching $$1\\%$$ of their entire population) I would save the chickens' lives in order to not impact biology. 
+For reasonably small \\(x\\) (say, less than a million), **I would choose to save a human life.** However, once \\(x\\) gets increasingly large (say, approaching \\(1\\%\\) of their entire population) I would save the chickens' lives in order to not impact biology. 
 
 That being said, actions will be taken towards minimizing the amount of damage done, for instance by utilizing painkillers. 
 
@@ -80,11 +80,11 @@ Ultimately, such problems end up being a game about expected value. I believe th
 
 Ignoring hidden variables for now (since no specification is given), we'll apply the discrete formula for calculating expected values. 
 
-\\[\\begin{align*}\\mathbb E[\\text{Option 2}] &\\ge \\mathbb E[\\text{Option 1}]\\
-\\text{Pr}[\\text{Success}_\\text{\\ Option 2}] \\cdot x &\\ge 
+\\[\\begin{align\\\*}\\mathbb E[\\text{Option 2}] \&\\ge \\mathbb E[\\text{Option 1}]\\
+\\text{Pr}[\\text{Success}_\\text{\\ Option 2}] \\cdot x \&\\ge 
 \\text{Pr}[\\text{Success}_\\text{\\ Option 1}] \\cdot 20\\
-100\\%\\cdot x &\\ge 50\\%\\cdot 20\\
-x &\\ge 10\\end{align*}\\]
+100\\\%\\cdot x \&\\ge 50\\\%\\cdot 20\\
+x \&\\ge 10\\end{align\\\*}\\]
 
 Therefore, the minimum accepted value \\(x_\\text{min}=10\\). 
 
