@@ -80,11 +80,13 @@ Ultimately, such problems end up being a game about expected value. I believe th
 
 Ignoring hidden variables for now (since no specification is given), we'll apply the discrete formula for calculating expected values. 
 
-\\\[\\begin{align\*}\\mathbb E\[\\text{Option 2}\] \&\\ge \\mathbb E\[\\text{Option 1}\]\\
-\\text{Pr}\[\\text{Success}\_\\text{\\ Option 2}\] \\cdot x \&\\ge 
-\\text{Pr}\[\\text{Success}\_\\text{\\ Option 1}\] \\cdot 20\\
-100\%\\cdot x \&\\ge 50\%\\cdot 20\\
-x \&\\ge 10\\end{align\*}\\\]
+{% raw %}
+$$\begin{align*}\mathbb E[\text{Option 2}] &\ge \mathbb E[\text{Option 1}]\\
+\text{Pr}[\text{Success}_\text{\ Option 2}] \cdot x &\ge 
+\text{Pr}[\text{Success}_\text{\ Option 1}] \cdot 20\\
+100\%\cdot x &\ge 50\%\cdot 20\\
+x &\ge 10\end{align*}$$
+{% endraw %}
 
 Therefore, the minimum accepted value \\(x_\\text{min}=10\\). 
 
@@ -94,9 +96,9 @@ Simple: there is a hidden variable involved.
 
 If a person walks up to you and threatens killing one person, is (s)he telling the truth? Maybe. We'll overestimate and say \\(\\text{Pr[\\text{truth}]}=0.1\\). This factor will be considered when you think about whether to hand in your wallet. 
 
-What if the person walks up to you and threatens killing \\(10\\) people? Well, we would expect \\(\\text{Pr[\\text{truth}]}=0.01\\) or even less. 
+What if the person walks up to you and threatens killing \\(10\\) people? Well, we would expect \\(\\text{Pr\[truth\]}=0.01\\) or even less. 
 
-What if the person walks up to you and threatens killing \\(10^{10}\\) people? Well, we know that \\(\\text{Pr[\\text{truth}]}=0\\) (effectively). 
+What if the person walks up to you and threatens killing \\(10^{10}\\) people? Well, we know that \\(\\text{Pr\[truth\]}=0\\) (effectively). 
 
 There are two key points here: 
 
