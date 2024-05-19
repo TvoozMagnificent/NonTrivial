@@ -11,7 +11,7 @@ Even though having potential in a particular area of expertise can be very benef
 
 Of course, the deciding factor always contains **the specifics of the contribution**. Without knowledge of the specifics, it can be hard to decide on the better result. For instance, how much the cause can benefit the world can also determine whether it is worth working for. 
 
-> An equation for counterfactual impact: amount of good you did $-$ what would have happened without you. 
+> An equation for counterfactual impact: amount of good you did $$-$$ what would have happened without you. 
 >
 > **Do you care more about having a counterfactual impact or direct impact? Why?**
 
@@ -23,13 +23,13 @@ Overall, the point of "doing good" to the society is not just about your direct 
 > 
 > Do you have an obligation to rescue the child? And what if other people are walking past the pond and choosing not to intervene, does this change your obligation to act?
 > 
-> Imagine you could save a child's life overseas by donating money ([about $4,500](https://www.givewell.org/cost-to-save-a-life)). Some argue we have an obligation to help others in need regardless of distance. Others disagree, saying that such an obligation would be too demanding, we have special obligations to our community, or that donations don’t address the systemic causes of global inequality. What do you think?
+> Imagine you could save a child's life overseas by donating money ([about $$4,500](https://www.givewell.org/cost-to-save-a-life)). Some argue we have an obligation to help others in need regardless of distance. Others disagree, saying that such an obligation would be too demanding, we have special obligations to our community, or that donations don’t address the systemic causes of global inequality. What do you think?
 >
 > **Do you believe we have an obligation to help others in need? Why or why not?**
 
-Obligation is strictly defined as [a course of action that someone is required to take, whether legal or moral](https://en.wikipedia.org/wiki/Obligation). It is clear that the law is the red line of morality. Under most circumstances, one does not have a legal obligation to help others in need, especially in the **Thought Experiment**. However, many people can feel morally obligated to save the child, even if other people are around. Of course, if there is a lifeguard around, one would notify him or her instead of taking actions immediately. However, most people will not consider always donating $4,500 to save a child's life rational, much less an **obligation**. Reasons may include: 
+Obligation is strictly defined as [a course of action that someone is required to take, whether legal or moral](https://en.wikipedia.org/wiki/Obligation). It is clear that the law is the red line of morality. Under most circumstances, one does not have a legal obligation to help others in need, especially in the **Thought Experiment**. However, many people can feel morally obligated to save the child, even if other people are around. Of course, if there is a lifeguard around, one would notify him or her instead of taking actions immediately. However, most people will not consider always donating $$4,500 to save a child's life rational, much less an **obligation**. Reasons may include: 
 
-1. Low **transitivity**. It is harder to see the direct effect of a $4,500 donation towards a charity. However, ruining your clothes has the direct effect of saving that one specific child that you see is drowning. 
+1. Low **transitivity**. It is harder to see the direct effect of a $$4,500 donation towards a charity. However, ruining your clothes has the direct effect of saving that one specific child that you see is drowning. 
 2. Low **traceability**. Very few charities identify specifically whom your donation goes towards. In the worst case scenario, it could even be a scam. This means that you do not know if your donation was actually helpful. 
 3. Low **tractability**. Sacrificing clothing for a child's life right in front of you can be instinctive, but the amount of procedures for a single donation can take time. This can deter a lot of potential donors.
 4. Low **time limit**. Saving a drowning child right in front of you is a very time-intensive task. If you make the decision later, the child might end up getting killed. This inflexibility in time compared to donations can make decisions more impulsive. 
@@ -52,9 +52,9 @@ The best way is to look at the **most pressing problems** that we face. Altruism
 
 I agree with the viewpoint that a species is worthy of our concern if it can **feel pain**. 
 
-> **Imagine a trolley was hurtling down the track and you had to choose between it killing a human or hitting $x$ chickens. Is there a number of chickens where you would choose to save their life over a human? What do you think is the smallest number of chickens where you would choose them over the human?**
+> **Imagine a trolley was hurtling down the track and you had to choose between it killing a human or hitting $$x$$ chickens. Is there a number of chickens where you would choose to save their life over a human? What do you think is the smallest number of chickens where you would choose them over the human?**
 
-For reasonably small $x$ (say, less than a million), **I would choose to save a human life.** However, once $x$ gets increasingly large (say, approaching $1\%$ of their entire population) I would save the chickens' lives in order to not impact biology. 
+For reasonably small $$x$$ (say, less than a million), **I would choose to save a human life.** However, once $$x$$ gets increasingly large (say, approaching $$1\%$$ of their entire population) I would save the chickens' lives in order to not impact biology. 
 
 That being said, actions will be taken towards minimizing the amount of damage done, for instance by utilizing painkillers. 
 
@@ -69,14 +69,14 @@ That being said, actions will be taken towards minimizing the amount of damage d
 >
 > **How comfortable are you with tackling problems that have uncertain solutions or impact?**
 
-Ultimately, such problems end up being a game about expected value. I believe that comparing $\mathbb E[$lives saved$]$ is **philosophically correct**. However, one has to be careful about hidden variables in the scenario. For instance, $1\%$ may not be a very accurate estimate. Additionally, saving only 1 person may cause emotional damage to that person. That person might lose his friends and family, and even feel guilty of not saving more people. 
+Ultimately, such problems end up being a game about expected value. I believe that comparing $$\mathbb E[$$lives saved$$]$$ is **philosophically correct**. However, one has to be careful about hidden variables in the scenario. For instance, $$1\%$$ may not be a very accurate estimate. Additionally, saving only 1 person may cause emotional damage to that person. That person might lose his friends and family, and even feel guilty of not saving more people. 
 
 > **You have two options:**
 > 
 > 1.  **50% chance of saving 20 lives.**
-> 2.  **100% chance of saving $x$ lives.**
+> 2.  **100% chance of saving $$x$$ lives.**
 > 
-> **What’s the smallest value of $x$ you’d accept by taking option 2?**
+> **What’s the smallest value of $$x$$ you’d accept by taking option 2?**
 
 Ignoring hidden variables for now (since no specification is given), we'll apply the discrete formula for calculating expected values. 
 
@@ -86,17 +86,17 @@ $$\begin{align*}\mathbb E[\text{Option 2}] &\ge \mathbb E[\text{Option 1}]\\
 100\%\cdot x &\ge 50\%\cdot 20\\
 x &\ge 10\end{align*}$$
 
-Therefore, the minimum accepted value $x_\text{min}=10$. 
+Therefore, the minimum accepted value $$x_\text{min}=10$$. 
 
 > **If you use expected value, how will you avoid [Pascal's mugging](https://forum.effectivealtruism.org/topics/pascal-s-mugging)?**
 
 Simple: there is a hidden variable involved. 
 
-If a person walks up to you and threatens killing one person, is (s)he telling the truth? Maybe. We'll overestimate and say $\text{Pr[\text{truth}]}=0.1$. This factor will be considered when you think about whether to hand in your wallet. 
+If a person walks up to you and threatens killing one person, is (s)he telling the truth? Maybe. We'll overestimate and say $$\text{Pr[\text{truth}]}=0.1$$. This factor will be considered when you think about whether to hand in your wallet. 
 
-What if the person walks up to you and threatens killing $10$ people? Well, we would expect $\text{Pr[\text{truth}]}=0.01$ or even less. 
+What if the person walks up to you and threatens killing $$10$$ people? Well, we would expect $$\text{Pr[\text{truth}]}=0.01$$ or even less. 
 
-What if the person walks up to you and threatens killing $10^{10}$ people? Well, we know that $\text{Pr[\text{truth}]}=0$ (effectively). 
+What if the person walks up to you and threatens killing $$10^{10}$$ people? Well, we know that $$\text{Pr[\text{truth}]}=0$$ (effectively). 
 
 There are two key points here: 
 
