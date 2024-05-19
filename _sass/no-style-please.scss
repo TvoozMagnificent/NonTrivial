@@ -6,8 +6,19 @@ html, body { background: black; }
 
 html { height: 100%; }
 
-a {
-  color: red;
+a:link {
+    color: #FF0000;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #AA0000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #CC0000;
 }
 
 body {
