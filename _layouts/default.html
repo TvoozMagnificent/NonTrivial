@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    
+    <meta charset="utf-8">
+    {% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
+    <title>{{ page.title }}</title>
+    
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
