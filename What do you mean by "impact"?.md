@@ -1,7 +1,9 @@
 ---
 layout: default
-title: What do you mean by "impact"???
+title: What do you mean by "impact"?
 ---
+
+# What do you mean by "impact"?
 
 > **Thought experiment:** Imagine you want to develop cancer treatments after a loved one's illness. But you have great engineering skills that could advance clean energy. How would you weigh following your passions against contributing where your talents may have outsized impact?
 >
