@@ -52,9 +52,9 @@ The best way is to look at the **most pressing problems** that we face. Altruism
 
 I agree with the viewpoint that a species is worthy of our concern if it can **feel pain**. 
 
-> **Imagine a trolley was hurtling down the track and you had to choose between it killing a human or hitting $$x$$ chickens. Is there a number of chickens where you would choose to save their life over a human? What do you think is the smallest number of chickens where you would choose them over the human?**
+> **Imagine a trolley was hurtling down the track and you had to choose between it killing a human or hitting \\(x\\) chickens. Is there a number of chickens where you would choose to save their life over a human? What do you think is the smallest number of chickens where you would choose them over the human?**
 
-For reasonably small \\(x\\) (say, less than a million), **I would choose to save a human life.** However, once $$x$$ gets increasingly large (say, approaching $$1\\%$$ of their entire population) I would save the chickens' lives in order to not impact biology. 
+For reasonably small \\(x\\) (say, less than a million), **I would choose to save a human life.** However, once \\(x\\) gets increasingly large (say, approaching $$1\\%$$ of their entire population) I would save the chickens' lives in order to not impact biology. 
 
 That being said, actions will be taken towards minimizing the amount of damage done, for instance by utilizing painkillers. 
 
@@ -69,7 +69,7 @@ That being said, actions will be taken towards minimizing the amount of damage d
 >
 > **How comfortable are you with tackling problems that have uncertain solutions or impact?**
 
-Ultimately, such problems end up being a game about expected value. I believe that comparing \\(\\mathbb E[\\text\{lives saved\}]\\) is **philosophically correct**. However, one has to be careful about hidden variables in the scenario. For instance, $$1\\%$$ may not be a very accurate estimate. Additionally, saving only 1 person may cause emotional damage to that person. That person might lose his friends and family, and even feel guilty of not saving more people. 
+Ultimately, such problems end up being a game about expected value. I believe that comparing \\(\\mathbb E[\\text\{lives saved\}]\\) is **philosophically correct**. However, one has to be careful about hidden variables in the scenario. For instance, \\(1\\%\\) may not be a very accurate estimate. Additionally, saving only 1 person may cause emotional damage to that person. That person might lose his friends and family, and even feel guilty of not saving more people. 
 
 > **You have two options:**
 > 
