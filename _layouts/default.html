@@ -15,33 +15,14 @@
     {%- endif -%}
   </title>
 
-  {%-seo title=false-%}
-  {%-feed_meta-%}
-
-  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
 </head>
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
+  <body>
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
       </div>
     </main>
-
-    {%-if site.goat_counter and jekyll.environment == "production"-%}
-      <script data-goatcounter="https://{{ site.goat_counter }}.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
-        <noscript>
-          <img src="https://{{ site.goat_counter }}.goatcounter.com/count?p=/test-img">
-        </noscript>
-    {%-endif-%}
-
-    {% if page.custom_js %}
-      {% for js_file in page.custom_js %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-      {% endfor %}
-    {% endif %}
   </body>
 </html>
 
