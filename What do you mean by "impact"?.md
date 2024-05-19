@@ -80,11 +80,11 @@ Ultimately, such problems end up being a game about expected value. I believe th
 
 Ignoring hidden variables for now (since no specification is given), we'll apply the discrete formula for calculating expected values. 
 
-\\[\\begin{align\\\*}\\mathbb E[\\text{Option 2}] \&\\ge \\mathbb E[\\text{Option 1}]\\
-\\text{Pr}[\\text{Success}_\\text{\\ Option 2}] \\cdot x \&\\ge 
-\\text{Pr}[\\text{Success}_\\text{\\ Option 1}] \\cdot 20\\
-100\\\%\\cdot x \&\\ge 50\\\%\\cdot 20\\
-x \&\\ge 10\\end{align\\\*}\\]
+\\\[\\begin{align\*}\\mathbb E\[\\text{Option 2}\] \&\\ge \\mathbb E\[\\text{Option 1}\]\\
+\\text{Pr}\[\\text{Success}\_\\text{\\ Option 2}\] \\cdot x \&\\ge 
+\\text{Pr}\[\\text{Success}\_\\text{\\ Option 1}\] \\cdot 20\\
+100\%\\cdot x \&\\ge 50\%\\cdot 20\\
+x \&\\ge 10\\end{align\*}\\\]
 
 Therefore, the minimum accepted value \\(x_\\text{min}=10\\). 
 
