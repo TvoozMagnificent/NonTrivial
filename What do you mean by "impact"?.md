@@ -91,7 +91,7 @@ Therefore, the minimum accepted value \\(x_\\text{min}=10\\).
 
 Simple: there is a hidden variable involved. 
 
-If a person walks up to you and threatens killing one person, is (s)he telling the truth? Maybe. We'll overestimate and say \\(\\text{Pr[\\text{truth}]}=0.1\\). This factor will be considered when you think about whether to hand in your wallet. 
+If a person walks up to you and threatens killing one person, is (s)he telling the truth? Maybe. We'll overestimate and say \\(\\text{Pr\[truth\]}=0.1\\). This factor will be considered when you think about whether to hand in your wallet. 
 
 What if the person walks up to you and threatens killing \\(10\\) people? Well, we would expect \\(\\text{Pr\[truth\]}=0.01\\) or even less. 
 
