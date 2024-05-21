@@ -24,4 +24,26 @@
 
 > **Mass destruction weapons** appears in all **4** sources. 
 
+## Personal Edge
 
+My personal edge is in technology-related fields, so I am better off dealing with **Internet Safety** or **Artificial Intelligence**. 
+
+## Heuristics
+
+```
+What are some problems that affect sentient beings that aren’t commonly given sufficient moral consideration? You could look at your week 1 worksheet for your answers that would not be widely shared by others.
+```
+
+> Farm Animals
+
+## In what ways could emerging technology cause or exacerbate important issues?
+
+> Internet Safety
+
+> Artificial Intelligence
+
+## Choose your top 3 problems
+
+Mass Destruction Weapons|Climate Change|Farm Animals|Internet Safety|Artificial Intelligence|Illiteracy
+-|-|-|-|-|-
+a|a|a|a|a|a
