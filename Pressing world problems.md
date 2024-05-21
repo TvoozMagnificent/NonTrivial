@@ -44,12 +44,15 @@ What are some problems that affect sentient beings that aren’t commonly given 
 
 ## Choose your top 3 problems
 
-Problem|Mass Destruction Weapons|Climate Change|Farm Animals|**Internet Safety**|**Artificial Intelligence**|**Illiteracy**
+Problem|Mass Destruction Weapons|Climate Change|Farm Animals|`Internet Safety`|`Artificial Intelligence`|`Illiteracy`
 -|-|-|-|-|-|-
 Pressing|6|2|3|5|5|4
 Personal Edge|2|6|4|8|8|6
-Total Score|8|8|7|**13**|**13**|**10**
+Total Score|8|8|7|`13`|`13`|`10`
 
 ## Problem Statements
 
-
+> a
+> > b
+> > > c
+> # d

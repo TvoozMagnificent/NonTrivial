@@ -142,4 +142,62 @@ Trading Fullfillments of Utility Functions
 
 ## Chapter 14: The Unknown and the Unknowable
 
+```
+Correlation vs. Causation
+```
 
+> SO THAT'S HOW THE COMED-TEA WORKS! Of course! The spell doesn't force funny events to happen, it just makes you feel an impulse to drink right before funny things are going to happen anyway! I'm such a fool, I should have realised when I felt the impulse to drink the Comed-Tea before Dumbledore's second speech, didn't drink it, and then choked on my own saliva instead - drinking the Comed-Tea doesn't cause the comedy, the comedy causes you to drink the Comed-Tea! I saw the two events were correlated and assumed the Comed-Tea had to be the cause and the comedy had to be the effect because I thought temporal order restrained causation and causal graphs had to be acyclic BUT IT ALL MAKES SENSE ONCE YOU DRAW THE CAUSAL ARROWS GOING BACKWARDS IN TIME!
+
+Correlation does not always imply causation. The direction could be wrong, there could be a common cause, or it could be a coincidence. 
+
+## Chapter 15: Conscientiousness
+
+## Chapter 16: Lateral Thinking
+
+## Chapter 17: Locating the Hypothesis
+
+```
+Priveleging the Hypothesis
+```
+
+> Harry had the feeling this conversation was not going to work out in his favour, but he carried on regardless. "No. I don't even know if that fallacy has an official name, but if I had to make one up myself, it would be 'privileging the hypothesis' or something like that. How can I put this formally... um... suppose you had a million boxes, and only one of the boxes contained a diamond. And you had a box full of diamond-detectors, and each diamond-detector always went off in the presence of a diamond, and went off half the time on boxes that didn't have a diamond. If you ran twenty detectors over all the boxes, you'd have, on average, one false candidate and one true candidate left. And then it would just take one or two more detectors before you were left with the one true candidate. The point being that when there are lots of possible answers, most of the evidence you need goes into just locating the true hypothesis out of millions of possibilities - bringing it to your attention in the first place. The amount of evidence you need to judge between two or three plausible candidates is much smaller by comparison. So if you just jump ahead without evidence and promote one particular possibility to the focus of your attention, you're skipping over most of the work. Like, you live in a city where there are a million people, and there's a murder, and a detective says, well, we've got no evidence at all, so have we considered the possibility that Mortimer Snodgrass did it?"
+>
+> "Did he?" said Dumbledore.
+>
+> "No," said Harry. "But later it turns out that the murderer had black hair, and Mortimer has black hair, so everyone's like, ah, looks like Mortimer did it after all. So it's unfair to Mortimer for the police to promote him to their attention without having good reasons already in hand to suspect him. When there are lots of possibilities, most of the work goes into just locating the true answer - starting to pay attention to it. You don't need proof, or the sort of official evidence that scientists or courts demand, but you need some sort of hint, and that hint has to discriminate that particular possibility from the millions of others. Otherwise you can't just pluck the right answer out of thin air. You can't even pluck a possibility worth thinking about out of thin air. And there's got to be a million other things I could do besides carrying around my father's rock. Just because I'm ignorant about the universe doesn't mean that I'm unsure about how I should reason in the presence of my uncertainty. The laws for thinking with probabilities are no less iron than the laws that govern old-fashioned logic, and what you just did is not allowed." Harry paused. "Unless, of course, you have some hint you're not mentioning."
+>
+> "Ah," said Dumbledore. He tapped his cheek, looking thoughtful. "An interesting argument, certainly, but doesn't it break down at the point where you make an analogy between a million potential murderers only one of whom committed the murder, and taking one out of many possible courses of action, when many possible courses of action may all be wise? I do not say that carrying your father's rock is the one best possible course of action, only that it is wiser to do than not."
+
+## Chapter 17: Locating the Hypothesis
+
+## Chapter 18: Dominance Hierarchies
+
+> "Well, he certainly seems to have backed us into a corner," Dumbledore said, smiling happily. "But Hogwarts does need an evil Potions Master, or it just wouldn't be a proper magical school, now would it? So how about if Professor Snape is only awful toward students in their fifth year and higher?"
+
+## Chapter 19: Delayed Gratification
+
+## Chapter 20: Bayes's Theorem
+
+```
+Preference Utilitarianism
+```
+
+> "What makes something right, if not your wanting it?"
+>
+> "Ah," Harry said, "preference utilitarianism."
+
+Preference Utilitarianism is the ethical theory that the moral ideal is the one maximizing the preferences of the most people. 
+
+## Chapter 21: Rationalization
+
+> "This day shall mark the dawn of... the Bayesian Conspiracy."
+
+## Chapter 22: The Scientific Method
+
+```
+Asch's Conformity Experiment
+```
+
+---
+
+> Draco had heard of something called the Socratic Method, which was teaching by asking questions (named after an ancient philosopher who had been too smart to be a real Muggle and hence had been a disguised pureblood wizard). One of his tutors had used Socratic teaching a lot. It had been annoying but effective.
