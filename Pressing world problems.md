@@ -18,8 +18,10 @@
 
 > **Artificial Intelligence** appears in **2** sources. 
 
-> **Illiteracy** appears in **1** source. 
+> ~~**Illiteracy** appears in **1** source.~~ 
 
 > **Internet safety** appears in **2** sources. 
 
 > **Mass destruction weapons** appears in all **4** sources. 
+
+
