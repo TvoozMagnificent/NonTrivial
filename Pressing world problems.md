@@ -52,4 +52,9 @@ Total Score|8|8|7|`13`|`13`|`10`
 
 ## Problem Statements
 
+> # Problem: Internet Safety
+> > Summary: Internet safety is crucial in today's digital age, where the internet plays a significant role in daily life, from communication and education to entertainment and business. 
+> 
+> > Why do you think this problem could be among the most important global problems for you to work: This problem can be worked on in various different aspects, which means that we can pile on to existing efforts without worrying about diminishing returns. Additionally, this effort can positively affect a lot of people, since more than two thirds of the world population is a potential target. 
+
 
