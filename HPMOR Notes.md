@@ -198,6 +198,12 @@ Preference Utilitarianism is the ethical theory that the moral ideal is the one 
 Asch's Conformity Experiment
 ```
 
----
+```
+The Socratic Method
+```
 
 > Draco had heard of something called the Socratic Method, which was teaching by asking questions (named after an ancient philosopher who had been too smart to be a real Muggle and hence had been a disguised pureblood wizard). One of his tutors had used Socratic teaching a lot. It had been annoying but effective.
+
+## Chapter 23: Belief in Belief
+
+## 
