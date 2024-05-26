@@ -69,7 +69,19 @@ Here's the formatted table:
 > 
 > > **Why do you think this problem could be among the most important global problems for you to work:** This effort can save a large population of animals with negligible cost. 
 
+## Brainstorm some initial project ideas
 
+My top problem is: Artificial Intelligence
+
+> **Based on what you know about this problem, which approaches, interventions, or solutions seem particularly impactful or cost-effective?** Raising awareness for what AI can or cannot do, to allow Artificial Intelligence to benefit as many people as possible. 
+
+> **How could you use your specific skills and other resources to start tackling this problem?** With my knowledge on Artificial Intelligence, Mathematics, and Programming, compounded with my social status as an influencer, my specific skills points towards this effort. 
+
+> **If you only had tomorrow to contribute to a solution to this problem, what would you do?** I would create content on this in my popular channels. 
+
+> **How could you increase the amount of resources (e.g., money, time) dedicated to solving this problem?** By raising awareness, we can increase the amount of resources dedicated in this effort. 
+
+> **What are the key barriers to this problem being solved? How could you address them?** The lack of education in realm related to AI is a key barrier, but can be solved by educating the public with public sessions.
 
 # Summary Table
 
